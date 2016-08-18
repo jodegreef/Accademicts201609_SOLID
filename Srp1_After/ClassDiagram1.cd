@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Srp1.BankAccount">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Account\BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Srp1.BankHelpCenter">
+    <Position X="6.5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>HelpCenter\BankHelpCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Srp1.BankTransactionHistory">
+    <Position X="4" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>History\BankTransactionHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Srp1.ComplaintDetails">
+    <Position X="6.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelpCenter\ComplaintDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Srp1.TransactionHistory">
+    <Position X="4" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>History\TransactionHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Srp1.Status" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIEAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>HelpCenter\Status.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

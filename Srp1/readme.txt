@@ -1,0 +1,1 @@
+﻿http://design-principle-pattern.blogspot.be/2013/12/single-responsibility-principle.html
