@@ -10,7 +10,7 @@ namespace Srp_Book1_After
     {
         public string Print(string pageContent)
         {
-            return pageContent);
+            return pageContent;
         }
     }
 }
